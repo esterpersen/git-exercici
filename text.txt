@@ -1,1 +1,2 @@
 Aquest és l'exercici de l'Ester Perelló.
+Ara estic fent un canvi des de la master.
