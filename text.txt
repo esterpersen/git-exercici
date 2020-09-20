@@ -1,3 +1,5 @@
 Aquest és l'exercici de l'Ester Perelló.
 Ara estic fent un canvi des de la master.
 Ara estic modificant aquest text des de la branch1.
+
+segon intent.
