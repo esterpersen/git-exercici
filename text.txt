@@ -3,3 +3,4 @@ Ara estic fent un canvi des de la master.
 Ara estic modificant aquest text des de la branch1.
 
 segon intent.
+text editat des de la master. 
