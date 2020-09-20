@@ -1,1 +1,2 @@
 Aquest és l'exercici de l'Ester Perelló.
+Ara estic modificant aquest text des de la branch1.
