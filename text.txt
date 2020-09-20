@@ -4,3 +4,4 @@ Ara estic modificant aquest text des de la branch1.
 
 segon intent.
 text editat des de la master. 
+segon intent des de la branch1.
